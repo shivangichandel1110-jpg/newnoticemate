@@ -1,0 +1,7 @@
+{
+  "name": "Notice Mate",
+  "description": "AI-powered notice-to-action accessibility assistant that simplifies complex notices, extracts important facts and deadlines, and adds confirmed events directly to Google Calendar and Tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
